@@ -6,6 +6,26 @@ The simulator models restaurants, customers, riders, order preparation, rider mo
 
 ## 🌐 Live Demo
 
+## 📸 Dashboard Preview
+
+### Simulation Overview
+
+![Simulation Dashboard](screenshots/dashboard-overview.png)
+
+The dashboard provides an interactive simulation environment with configurable simulation duration, number of restaurants, rider capacity, demand level, and dispatch strategy.
+
+### Order Status Over Time
+
+![Order Status Over Time](screenshots/order-status.png)
+
+The simulator tracks order states throughout the simulation, including waiting, ready, assigned, picked-up, and delivered orders.
+
+### Rider Availability
+
+![Rider Availability](screenshots/rider-availability.png)
+
+Rider availability and utilization are visualized throughout the simulation to analyze dispatch performance and system capacity.
+
 **[Launch Intelligent Dispatch Simulator](https://intelligent-dispatch-simulator-dsvehae7mft3zgckzfcik2.streamlit.app/)**
 
 ---
